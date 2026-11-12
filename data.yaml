@@ -1,0 +1,17 @@
+path: food-dataset
+
+train: train/images
+val: val/images
+
+nc: 10
+names:
+  - Pizza
+  - Pui cu cartofi
+  - Sarmale
+  - Sushi
+  - Hamburger
+  - Clatite
+  - Orez cu legume
+  - Gogosi
+  - Spaghete
+  - Ciorba
